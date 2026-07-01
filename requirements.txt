@@ -1,0 +1,14 @@
+chainlit
+python-dotenv
+
+langchain
+langchain-core
+langchain-openrouter
+langchain-qdrant
+langchain-huggingface
+langchain-text-splitters
+
+qdrant-client
+sentence-transformers
+
+pypdf
